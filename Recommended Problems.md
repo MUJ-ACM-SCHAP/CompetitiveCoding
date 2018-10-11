@@ -9,3 +9,4 @@ The following lists contains recommended problems to get started with. These are
 ## Codeforces
 * [Dividing The Numbers](https://codeforces.com/contest/899/problem/C)
 * [Magical Indices](https://codeforces.com/gym/101532/problem/G)
+* [Two Substrings](http://codeforces.com/problemset/problem/550/A)
